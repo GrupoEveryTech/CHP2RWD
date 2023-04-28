@@ -1,3 +1,11 @@
 .media{
   background-color: #CC49C5;
 }
+
+.media nav a img {
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  width: 10%;
+}
