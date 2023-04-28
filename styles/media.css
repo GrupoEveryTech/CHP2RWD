@@ -10,6 +10,10 @@
   width: 22rem;
 }
 
+.media nav a:hover{
+  background-color: #f09fec;
+}
+
 #titleMedia{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 3rem;
