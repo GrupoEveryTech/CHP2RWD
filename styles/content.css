@@ -3,6 +3,8 @@
   flex-wrap: wrap;
   max-width: 80vw;
   margin: 0 auto;
+  padding-top: 4rem;
+  background-color: #FFA8FB;
 }
 
 .content img {
