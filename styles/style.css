@@ -1,6 +1,7 @@
 @import url("./header.css");
 @import url("./content.css");
 @import url("./media.css");
+@import url("./internal.css");
 
 html{
     font-size: 62.7%;
@@ -14,6 +15,7 @@ html{
 
 body{
     background-color: #800379;
+    overflow: hidden;
 }
 
 a{
