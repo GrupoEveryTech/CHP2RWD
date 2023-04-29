@@ -2,15 +2,21 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #CC49C5;
-  margin-top: 30.8rem;
+  background-color: #C0C0C0	;
+  margin-top: 30.5rem;
+  max-width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
 
 .media nav a img {
-  width: 22rem;
+  max-width: 10rem;
+  max-height: auto;
 }
 
 #titleMedia{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
