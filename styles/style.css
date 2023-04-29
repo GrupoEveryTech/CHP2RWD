@@ -2,14 +2,14 @@
 @import url("./content.css");
 @import url("./media.css");
 
-html{
-    font-size: 62.7%;
-}
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+html{
+    font-size: 62.7%;
 }
 
 body{
@@ -18,9 +18,4 @@ body{
 
 a{
     text-decoration: none;
-}
-
-section {
-    max-width: 80%;
-    margin: 0 auto;
 }
