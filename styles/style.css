@@ -3,18 +3,18 @@
 @import url("./media.css");
 @import url("./internal.css");
 
-html{
-    font-size: 62.7%;
-}
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+html{
+    font-size: 62.7%;
+}
+
 body{
-    background-color: #800379;
+    background-color: #D3D3D3	;
 }
 
 a{
